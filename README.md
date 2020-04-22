@@ -1,7 +1,5 @@
 # Twitter_Case_Study
 
-# TwitterProducerAndConsumer
-
 Twitter Producer -> Written in Scala to extract the Tweets based on the keywords(“corona”,”COVID19”) and broadcast to Kafka topic.
 
    Step1. Created a twitter client using twitter api
