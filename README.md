@@ -41,6 +41,7 @@ vii. Ranking of impacted countries over the last 2 month on a week basis, to see
 
 
 #Files
+
 TwitterProducerAndConsumer/main/scala - Contains Twitter Producer and Consumer, and other required files.
 
 TwitterProducerAndConsumer/test/scala - Contains ExtractUsefulData Tests and FilterData Tests in Test.scala
@@ -48,5 +49,6 @@ TwitterProducerAndConsumer/test/scala - Contains ExtractUsefulData Tests and Fil
 apiQueries/twitter - _init_.py for queries, run.py for running the queries init file, tweets_extractor.py for extracting WHO tweets using tweepy, csv_to_mongo.py, WHOSEARO_tweets.csv
 
 apiQueries/test - test.py for testing queries
+
 
 
